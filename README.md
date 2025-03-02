@@ -1,8 +1,3 @@
-Computer Science Student at Washington University in St. Louis
+Computer Science Graduate from Washington University in St. Louis
 
-Languages (ordered by proficiency) include: 
-Java
-JavaScript
-HTML/CSS
-Python
-C++
+https://james-pieper.vercel.app/
